@@ -1,0 +1,19 @@
+{
+    "name": "KMogi.Editor",
+    "rootNamespace": "KMogi.Editor",
+    "references": [
+        "KMogi.Core",
+        "KMogi.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
